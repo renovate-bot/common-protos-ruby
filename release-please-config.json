@@ -19,6 +19,10 @@
       "component": "google-apps-script-type",
       "version-file": "lib/google/apps/script/type/version.rb"
     },
+    "google-backstory": {
+      "component": "google-backstory",
+      "version_file": "lib/google/backstory/version.rb"
+    },
     "google-cloud-common": {
       "component": "google-cloud-common",
       "version-file": "lib/google/cloud/common/version.rb"
